@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\Gamez\jajava" version="1.8.0_144">
+<bootpath>
+<entry path="D:\Gamez\jajava\lib\resources.jar"/>
+<entry path="D:\Gamez\jajava\lib\rt.jar"/>
+<entry path="D:\Gamez\jajava\lib\sunrsasign.jar"/>
+<entry path="D:\Gamez\jajava\lib\jsse.jar"/>
+<entry path="D:\Gamez\jajava\lib\jce.jar"/>
+<entry path="D:\Gamez\jajava\lib\charsets.jar"/>
+<entry path="D:\Gamez\jajava\lib\jfr.jar"/>
+<entry path="D:\Gamez\jajava\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\Gamez\jajava\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\Gamez\jajava\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
